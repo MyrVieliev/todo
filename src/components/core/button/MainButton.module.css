@@ -1,0 +1,10 @@
+.mainBtn {
+	font-family: 'Lato', sans-serif;
+
+	padding: 5px 15px;
+	color: #7485f0;
+	font-size: 18px;
+	background: transparent;
+	border: none;
+	cursor: pointer;
+}
