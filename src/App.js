@@ -4,7 +4,7 @@ import NavContainer from './components/NavContainer/NavContainer';
 import TasksContainer from './components/TasksContainer/TasksContainer';
 import Localbase from 'localbase';
 
-import './styles/css/App.css';
+import './styles/css/App.min.css';
 
 function App() {
 	const [tasks, setTasks] = useState([]);

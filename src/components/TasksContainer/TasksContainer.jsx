@@ -76,8 +76,7 @@ function TasksContainer({ tasks, setTasks, db }) {
 					fontSize: '45px',
 					fontWeight: '700',
 					alignSelf: 'flex-end',
-					marginRight: '40px',
-					marginBottom: '20px',
+					padding: '5px 30px 10px'
 				}}
 				onClick={() => setModal(true)}
 			>
